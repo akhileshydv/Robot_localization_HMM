@@ -24,6 +24,7 @@ _E_<sub>t</sub>: sensor variable that can have 16 possible values, each a four-b
 absence of an obstacle in a particular compass direction.
 
 The observation model can be given as:
+
 ![screenshot from 2018-07-08 12-31-24](https://user-images.githubusercontent.com/8543981/42417563-3fbad07c-82ab-11e8-8e3c-7d6a24f9081d.png)
 
 
